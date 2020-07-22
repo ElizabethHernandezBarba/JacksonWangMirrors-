@@ -1,0 +1,17 @@
+p  {
+    color:rgb(253, 243, 243);
+}
+
+body {
+    color: rgb(253, 243, 243);
+    background-image: url("https://i.pinimg.com/originals/75/8e/c3/758ec3a4ecf30e4b7a56396fa9d91910.jpg");
+    background-size: 100% 100%;
+    font-family: 'Satisfy', cursive;}
+
+div {
+     
+     border: solid 8px;
+     padding: 20px 50px 20px 50px;
+     margin: 25px;
+     text-align: center;
+}
