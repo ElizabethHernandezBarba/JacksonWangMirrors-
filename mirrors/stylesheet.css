@@ -9,9 +9,20 @@ body {
     font-family: 'Satisfy', cursive;}
 
 div {
-     
+    
      border: solid 8px;
      padding: 20px 50px 20px 50px;
      margin: 25px;
      text-align: center;
 }
+
+
+#num1{
+    background-color: cornflowerblue;
+   
+}
+#num2{
+    background-color: aquamarine;
+}
+#num3{background-color:darkcyan;
+ }
